@@ -93,7 +93,7 @@ I'm a Computer Science & Engineering student who likes turning ambitious ideas i
 | **[CarbonPulse](https://github.com/8gitty/CarbonPulse)** | Cross-platform Flutter app that scans utility bills with OCR to auto-track your carbon footprint, with an AI sustainability assistant, auto-generated eco-reports, and gamified streaks. | Flutter · Dart · Firebase · ML Kit |
 | **[Avatar Search](https://github.com/8gitty/avatar-search-engine)** | Privacy-first metasearch engine featuring a zero-knowledge AES-256 encrypted bookmark vault, datacenter-safe web scrapers, and a key-free AI answer synthesizer. | React · Node.js · Express · MongoDB |
 | **[Smart Attendance System](https://github.com/8gitty/attendance-app)** | Role-based attendance platform for students, faculty & admin with live analytics dashboards and automatic alerts when attendance drops below eligibility thresholds. | Node.js · Express · React · MongoDB |
-| **Velocity Rentals** | High-concurrency vehicle fleet management platform with dynamic booking logic, live availability tracking, and admin analytics. | MongoDB · Express · React · Node.js |
+| **[Velocity Rentals](https://github.com/8gitty/Velocity-Rentals)** | High-concurrency vehicle fleet management platform with dynamic booking logic, live availability tracking, and admin analytics. | MongoDB · Express · React · Node.js |
 <br>
 
 ### GitHub Stats
